@@ -1,5 +1,12 @@
 # @changesets/apply-release-plan
 
+## 5.0.4
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @changesets/config@1.6.4
+
 ## 5.0.3
 
 ### Patch Changes
